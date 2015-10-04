@@ -52,6 +52,8 @@ table {
 //imports
 
 @import 'foundation/components/grid';
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+@import url(https://fonts.googleapis.com/css?family=Lato);
 
 //globals
 
@@ -61,6 +63,8 @@ $hovColor : #F1582A;
 
 $medium: "only screen and (min-width: 415px) and (max-width: 768px)";
 $large: "only screen and (min-width: 769px)";
+
+//styles
 
 body {
 
